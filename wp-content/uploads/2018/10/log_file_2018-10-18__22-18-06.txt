@@ -1,0 +1,50 @@
+
+---Downloaded files---
+The import files for: Demo content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://ourproj.test
+Data file = C:\xampp\htdocs\ourproj/wp-content/themes/greatmag/demo-content/demo-content.xml
+Widget file = C:\xampp\htdocs\ourproj/wp-content/themes/greatmag/demo-content/demo-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Pesquisar - No Title - Widget already exists
+Comentários recentes - No Title - Widget already exists
+Categorias - No Title - Widget already exists
+
+mysidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Texto - About - Imported to Inactive
+GreatMag: Most popular - Most popular - Imported to Inactive
+Artigos recentes - No Title - Imported to Inactive
+Comentários recentes - No Title - Imported to Inactive
+
+Footer 1 : 
+
+Menu de navegação - Top picks - Imported
+
+Footer 2 : 
+
+Menu de navegação - Services - Imported
+
+Footer 3 : 
+
+Texto - About - Imported
+
+
+
+---pt-ocdi/after_import---
+
