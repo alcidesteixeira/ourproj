@@ -30,7 +30,7 @@ define('DB_USER', 'saudePlenaAdmin');
 define('DB_PASSWORD', 'AC26together');
 
 /** O nome do serviddor de  MySQL  */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'saudeplenamysql.czhdyjondfyj.eu-west-2.rds.amazonaws.com');
 
 /** O "Database Charset" a usar na criação das tabelas. */
 define('DB_CHARSET', 'utf8mb4');
