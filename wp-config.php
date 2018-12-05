@@ -79,11 +79,7 @@ $table_prefix  = 'ourproj_';
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
-<<<<<<< HEAD
 define('WP_DEBUG', true);
-=======
-define('WP_DEBUG', false);
->>>>>>> 6a34150b2a34b7579151710c35d1c16b0e5cf5cc
 
 /* E é tudo. Pare de editar! */
 
