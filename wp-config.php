@@ -21,17 +21,16 @@
 
 // ** Definições de MySQL - obtenha estes dados do seu serviço de alojamento** //
 /** O nome da base de dados do WordPress */
-
-define('DB_NAME', 'saudeplena');
+define('DB_NAME', 'ourproj');
 
 /** O nome do utilizador de MySQL */
-define('DB_USER', 'saudePlenaAdmin');
+define('DB_USER', 'root');
 
 /** A password do utilizador de MySQL  */
-define('DB_PASSWORD', 'AC26together');
+define('DB_PASSWORD', '');
 
 /** O nome do serviddor de  MySQL  */
-define('DB_HOST', 'saudeplenamysql.czhdyjondfyj.eu-west-2.rds.amazonaws.com');
+define('DB_HOST', 'localhost');
 
 /** O "Database Charset" a usar na criação das tabelas. */
 define('DB_CHARSET', 'utf8mb4');
@@ -79,13 +78,13 @@ $table_prefix  = 'ourproj_';
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
-define('WP_DEBUG', true);
+define('WP_DEBUG', false);
 
 /* E é tudo. Pare de editar! */
 
 /** Caminho absoluto para a pasta do WordPress. */
 if ( !defined('ABSPATH') )
-	define('ABSPATH', dirname(__FILE__) . '/');
+    define('ABSPATH', dirname(__FILE__) . '/');
 
 /** Define as variáveis do WordPress e ficheiros a incluir. */
 require_once(ABSPATH . 'wp-settings.php');
